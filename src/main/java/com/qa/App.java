@@ -15,6 +15,7 @@ public class App
         System.out.println(sayHelloToSomeone("ChrisC"));
         System.out.println(sayHelloToSomeone("Zena"));
         System.out.println("This is version 2.0");
+        System.out.println("This is now version 2.1 testing automation via Harness");
         System.out.println(sayGoodbye());
     }
 
